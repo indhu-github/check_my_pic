@@ -1,0 +1,31 @@
+.footer {
+  left: 0;
+  right: 0;
+  position: relative;
+  background-color: grey;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+.header {
+  left: 0;
+  right: 0;
+  position: relative;
+  background-color: grey;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+}
+.pic {
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5;
+  margin-bottom: 5;
+}
